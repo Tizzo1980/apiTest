@@ -4,43 +4,6 @@
             "id": 14555,
             "days": [
                 {
-                    "day": "2017-05-01T00:00:00",
-                    "calendarNormalDay": {
-                        "id": 236066,
-                        "forcedTimeSlot": null,
-                        "assignedTimeSlot": {
-                            "id": 178,
-                            "code": "1",
-                            "description": "Orario Standard",
-                            "alternativeCode": null,
-                            "totalHours": 800
-                        },
-                        "anomaly": 0,
-                        "calculated": false,
-                        "calendarDayEvents": [
-                            {
-                                "id": 593648,
-                                "hours": 800,
-                                "property": "FG",
-                                "event": {
-                                    "id": 608,
-                                    "code": "FS",
-                                    "description": "Festività",
-                                    "eventClassData": {
-                                        "id": 114,
-                                        "classCode": "FS",
-                                        "classDescription": "Festività",
-                                        "classType": "F"
-                                    }
-                                }
-                            }
-                        ]
-                    },
-                    "calendarBudgetDay": null,
-                    "stampingDay": null,
-                    "serviceStampingDayData": null
-                },
-                {
                     "day": "2017-05-02T00:00:00",
                     "calendarNormalDay": {
                         "id": 236944,
